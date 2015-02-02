@@ -1,0 +1,6 @@
+/nbproject
+certs/*.pfx
+certs/*.key
+certs/*.cer
+certs/*.pem
+
