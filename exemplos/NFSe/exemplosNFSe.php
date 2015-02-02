@@ -13,9 +13,9 @@ $nfse = new NFSePHPGinfes(false, 1, false);
 $tarefa = $_GET['t'];
 //- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 // CNPJ E INSCRIÇÃO MUNICIPAL DO EMISSOR
-$cnpj         = '1790014400015';
-$im           = '148084552119';
-$razaoSocial  = 'NO BLIND RTM SERVICOS LTDA';
+$cnpj         = '98754561321321';
+$im           = '1234564654';
+$razaoSocial  = 'EMPRESA';
 $nomeFantasia = 'EMISSOR DE SERVICOS ';
 //- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - 
 
@@ -177,7 +177,7 @@ switch ($tarefa) {
          * *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  */
 
         //- - - - - - - - - - - - - - DADOS DO TOMADOR DO SERVIÇO - - - - - - - 
-        $oNF->set('tomaCPF', '09323017701');
+        $oNF->set('tomaCPF', '09323017708');
         //$oNF->set('tomaCNPJ', '');
         $oNF->set('tomaRazaoSocial', 'Roberto Soares');
         $oNF->set('tomaEndLogradouro', 'RUA ABILIO FIGUEIREDO 590');
@@ -199,8 +199,8 @@ switch ($tarefa) {
         //- - - - - - - - - - - - - - DADOS DO EMISSOR - - - - - - - - - - - - -
         $oNF->set('razaoSocial', $razaoSocial);
         $oNF->set('nomeFantasia', $nomeFantasia);
-        $oNF->set('CNPJ', '1790014400015');
-        $oNF->set('IM', '148084552119');
+        $oNF->set('CNPJ', '1790014400815');
+        $oNF->set('IM', '148084552112');
 
         // série da nota fiscal
         $oNF->set('numSerie', '1');
@@ -267,7 +267,7 @@ switch ($tarefa) {
          * *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  *  */
 
         //- - - - - - - - - - - - - - DADOS DO TOMADOR DO SERVIÇO - - - - - - - 
-        $oNF->set('tomaCPF', '09323017701');
+        $oNF->set('tomaCPF', '09323017707');
         //$oNF->set('tomaCNPJ', '');
 
         $oNF->set('tomaRazaoSocial', 'TOMADOR EXEMPLO 2');
