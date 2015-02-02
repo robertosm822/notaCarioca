@@ -1,0 +1,22 @@
+[30-Jan-2015 13:28:56] PHP Parse error:  syntax error, unexpected T_SR in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 43
+[30-Jan-2015 13:30:22] PHP Parse error:  syntax error, unexpected T_SL in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 213
+[30-Jan-2015 13:39:17] PHP Notice:  Undefined index:  SSL Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[30-Jan-2015 13:39:17] PHP Notice:  Undefined index:  OpenSSL Library Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[30-Jan-2015 13:46:38] PHP Notice:  Undefined index:  SSL Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[30-Jan-2015 13:46:38] PHP Notice:  Undefined index:  OpenSSL Library Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[30-Jan-2015 13:49:18] PHP Notice:  Undefined index:  SSL Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[30-Jan-2015 13:49:18] PHP Notice:  Undefined index:  OpenSSL Library Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[30-Jan-2015 13:59:03] PHP Notice:  Undefined index:  SSL Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[30-Jan-2015 13:59:03] PHP Notice:  Undefined index:  OpenSSL Library Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 05:37:15] PHP Notice:  Undefined index:  SSL Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 05:37:15] PHP Notice:  Undefined index:  OpenSSL Library Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 05:45:06] PHP Notice:  Undefined index:  SSL Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 05:45:06] PHP Notice:  Undefined index:  OpenSSL Library Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 05:45:23] PHP Notice:  Undefined index:  SSL Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 05:45:23] PHP Notice:  Undefined index:  OpenSSL Library Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 09:06:01] PHP Notice:  Undefined index:  SSL Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 09:06:01] PHP Notice:  Undefined index:  OpenSSL Library Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 10:21:18] PHP Notice:  Undefined index:  SSL Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 10:21:18] PHP Notice:  Undefined index:  OpenSSL Library Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 10:21:23] PHP Notice:  Undefined index:  SSL Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
+[02-Feb-2015 10:21:23] PHP Notice:  Undefined index:  OpenSSL Library Version in /home/andre754/public_html/noblind.com.br/clientes/traderadar/nfse/nfephp-master/install.php on line 462
